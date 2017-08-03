@@ -44,4 +44,4 @@ def update_plot(iterations, x, y, graph):
     yr.append(np.random.rand(1))
 
 
-pi_calc_inst(1000000, plot=True)
+pi_calc_inst(1000, plot=True)
